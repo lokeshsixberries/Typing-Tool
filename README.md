@@ -13,6 +13,5 @@
 ## Tech Stack
 
 - Next.js 15  
-- React  
 - CSS Modules / Tailwind CSS (adjust based on your setup)  
 - JavaScript / TypeScript (adjust if using TS)  
