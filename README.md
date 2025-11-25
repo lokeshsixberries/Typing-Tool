@@ -15,3 +15,4 @@
 - Next.js 15  
 - CSS Modules / Tailwind CSS (adjust based on your setup)  
 - JavaScript / TypeScript (adjust if using TS)  
+- will add some backend stuff here
